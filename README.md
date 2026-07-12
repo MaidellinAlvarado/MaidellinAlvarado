@@ -19,7 +19,7 @@ I thrive in multicultural environments and bring strong communication skills to 
 *   **DevOps & Architecture:** Docker, CI/CD, Prisma
 *   **IT & Hardware:** Computer Repair, Hardware Maintenance & Technical Support
 
----
+<img src="image" alt="Hero Banner" width="100%">
 
 ###  What I'm currently working on
 * 
