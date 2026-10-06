@@ -19,10 +19,10 @@ I thrive in multicultural environments and bring strong communication skills to 
 *   **DevOps & Architecture:** Docker, CI/CD, Prisma
 *   **IT & Hardware:** Computer Repair, Hardware Maintenance & Technical Support
 
-<img src="image" alt="Hero Banner" width="100%">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Maidellin%20Alvarado&fontSize=50&fontColor=ffffff)
 
 ###  What I'm currently working on
-* 
+"Architecting POLAR_SYSTEM, a scalable SaaS backend for students curriculum management (Node.js, Express, Prisma, and Docker).
 
   
 
