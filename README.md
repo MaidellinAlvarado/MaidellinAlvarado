@@ -1,29 +1,26 @@
+<h1 align="center">Hello World, I'm Maidellin Alvarado 💜 </h1>
+<h3 align="center">Full Stack Developer & Systems Engineering Student based in Guatemala 🇬🇹</h3>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Hello%20World%20I'm%20Maidellin%20Alvarado💜&fontSize=40&fontColor=fwfde)
-
-### Full Stack Developer & Systems Engineering Student
-
-I am a passionate software developer who enjoys transforming  technical challenges into efficient web applications. With a solid foundation in systems engineering,  graduated as a  Full Stack, and working on my  portfolio, I focus on building scalable architectures. Beyond coding, my background in computer repair and maintenance gives me a comprehensive understanding of hardware and technical troubleshooting.
-
- **Trilingual Professional:** 
-I thrive in multicultural environments and bring strong communication skills to any engineering team.
-*   **English:** Advanced (C1)
-*   **Français:** Intermediate(B2)
-*   **Español:** Native
+<p align="center">
+  <a href="https://github.com/MaidellinAlvarado"><img src="https://img.shields.io/badge/GitHub-MaidellinAlvarado-blue?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/maidellinalvarado"><img src="https://img.shields.io/badge/LinkedIn-maidellinalvarado-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
 ---
 
-### Tech Stack & Tools
-*   **Languages:** TypeScript, Java, JavaScript, HTML/CSS 
-*   **Frontend:** React
-*   **Backend & DB:** Node.js, PostgreSQL, Supabase
-*   **DevOps & Architecture:** Docker, CI/CD, Prisma
-*   **IT & Hardware:** Computer Repair, Hardware Maintenance & Technical Support
+###  🎹 About Me
+- 🪴 I’m currently studying **Systems Engineering** at USAC.
+- 💻 Passionate about building scalable web applications and microservices.
+- 🌍 Trilingual professional (**English C1, French B1, Spanish Native**).
+- ⚙️ Strong background in hardware maintenance and technical troubleshooting.
 
+### 🛠️ Tech Stack & Tools
+- **Languages:** TypeScript, JavaScript, HTML/CSS, Java
+- **Frontend:** React, Tailwind CSS, Vite
+- **Backend & Databases:** Node.js, Express, PostgreSQL, Prisma, Supabase
+- **DevOps & Tools:** Docker, Git, Vercel, CI/CD
 
-
-###  What I'm currently working on
-Design of POLAR SYSTEM, a scalable system for managing the curricula of engineering students (Node.js, Express, Prisma, and Docker).
-
-
- **Let's connect:** [**]
+### 💻 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaidellinAlvarado&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
