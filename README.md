@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10,15,22&height=240&section=header&text=Maidellin%20Alvarado&fontSize=44&fontColor=ff2a85&fontAlignY=50&desc=Full%20Stack%20Developer%20&%20Systems%20Engineering%20Student&descSize=16&descColor=f472b6&descAlignY=72&animation=fadeIn" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=gear&color=gradient&customColorList=10,18,28,38&height=260&section=header&text=Maidellin%20Alvarado&fontSize=48&fontColor=ffd700&fontAlignY=42&desc=Full%20Stack%20Developer%20&%20Systems%20Engineering%20Student&descSize=20&descColor=e2e8f0&descAlignY=68&animation=scaleIn" alt="Banner" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 ---
 
 ### 📬 Let's Connect
-Currently working on my own projects, as well project collaborations, technical discussions, and professional networking here:
+Working on personal project as well open to project collaborations, and professional networking. Find me here:
 
 - **LinkedIn:** [in/maidellinalvarado](https://www.linkedin.com/in/maidellinalvarado)
 - **GitHub:** [@MaidellinAlvarado](https://github.com/MaidellinAlvarado)
