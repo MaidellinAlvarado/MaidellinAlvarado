@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/animated-heart.gif" width="20px" /> <h1 align="center">Hello World, I'm Maidellin Alvarado</h1>
-  <h3 align="center">Full Stack Developer & Systems Engineering Student based in Guatemala 🇬🇹</h3>
+  <img src="https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?q=80&w=900&auto=format&fit=crop" alt="Galactic Pink Nebula Banner" width="85%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(236, 72, 153, 0.2);" />
 </p>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1200&auto=format&fit=crop" alt="Galactic Nature Banner" width="100%" style="border-radius: 12px;" />
-</p>
+<h1 align="center"><span style="color: #e2a0bb;">Hello World, I'm Maidellin Alvarado 🌻</span></h1>
+<h3 align="center">Full Stack Developer & Systems Engineering Student based in Guatemala 🇬🇹</h3>
 
 ---
 
@@ -33,6 +31,13 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+### GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaidellinAlvarado&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
