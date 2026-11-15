@@ -1,5 +1,6 @@
-<h1 align="center"> Hello World, I'm Maidellin Alvarado 💜</h1>
-<h3 align="center">Full Stack Developer & Systems Engineering Student based in Guatemala 🇬🇹</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,15,22&height=200&section=header&text=Maidellin%20Alvarado&fontSize=42&fontColor=ff758c&fontAlignY=50&animation=fadeIn" alt="Banner" />
+</p>
 
 <p align="center">
   <a href="https://github.com/MaidellinAlvarado"><img src="https://img.shields.io/badge/GitHub-MaidellinAlvarado-blue?style=flat-square&logo=github" alt="GitHub"></a>
@@ -12,8 +13,8 @@
 - I’m currently studying Systems Engineering at USAC.
 - Passionate about building scalable web applications, custom dashboards, and microservices.
 - Trilingual professional (English C1, French B1, Spanish Native).
-- Happy to make friends, playing classical piano, and outdoor hiking adventures.
-
+- Playing classical piano, and outdoor hiking adventures.
+- Always happy to make friends, share deep conversations about tech and life!
 
 ---
 
@@ -44,7 +45,7 @@
 ---
 
 ### 📬 Let's Connect
-Open to project collaborations, technical discussions, and professional networking. Find me here:
+Currently working on my own projects, as well project collaborations, technical discussions, and professional networking here:
 
 - **LinkedIn:** [in/maidellinalvarado](https://www.linkedin.com/in/maidellinalvarado)
 - **GitHub:** [@MaidellinAlvarado](https://github.com/MaidellinAlvarado)
