@@ -4,15 +4,15 @@
 <p align="center">
   <a href="https://github.com/MaidellinAlvarado"><img src="https://img.shields.io/badge/GitHub-MaidellinAlvarado-blue?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/maidellinalvarado"><img src="https://img.shields.io/badge/LinkedIn-maidellinalvarado-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:tu-correo@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
 
 ---
+
 ### 🪴 About Me
 - I’m currently studying **Systems Engineering** at USAC.
 - Passionate about building scalable web applications, custom dashboards, and microservices.
 - Trilingual professional (**English C1, French B1, Spanish Native**).
-- Playing classical piano, outdoor hiking adventures simple details in nature.
+- Playing classical piano, and outdoor hiking adventures.
 - Always happy to make friends, share deep conversations about tech and life!
 
 ---
@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaidellinAlvarado&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaidellinAlvarado&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -45,4 +45,3 @@
 
 - **LinkedIn:** [in/maidellinalvarado](https://www.linkedin.com/in/maidellinalvarado)
 - **GitHub:** [@MaidellinAlvarado](https://github.com/MaidellinAlvarado)
-  
