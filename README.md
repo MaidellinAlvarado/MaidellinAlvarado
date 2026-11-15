@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,32,45&height=250&section=header&text=Maidellin%20Alvarado&fontSize=46&fontColor=e2e8f0&fontAlignY=38&desc=Full%20Stack%20Developer%20&%20Systems%20Engineering%20Student&descSize=18&descColor=ffd700&descAlignY=62&animation=stains" alt="Galactic Banner" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/animated-heart.gif" width="20px" /> <h1 align="center">Hello World, I'm Maidellin Alvarado</h1>
+  <h3 align="center">Full Stack Developer & Systems Engineering Student based in Guatemala 🇬🇹</h3>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MaidellinAlvarado"><img src="https://img.shields.io/badge/GitHub-MaidellinAlvarado-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/maidellinalvarado"><img src="https://img.shields.io/badge/LinkedIn-maidellinalvarado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1200&auto=format&fit=crop" alt="Galactic Nature Banner" width="100%" style="border-radius: 12px;" />
 </p>
 
 ---
 
-### 🪴 About Me
+### About Me
 - I’m currently studying Systems Engineering at USAC.
 - Passionate about building scalable web applications, custom dashboards, and microservices.
 - Trilingual professional (English C1, French B1, Spanish Native).
-- Playing classical piano, and outdoor hiking adventures.
-- Always happy to make friends, share deep conversations about tech and life!
+- Happy to make friends, playing classical piano, outdoor hiking adventures.
+
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -37,15 +37,8 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaidellinAlvarado&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📬 Let's Connect
-Working on personal projects as well open to project collaborations, and professional networking. Find me here:
+### Let's Connect
+Working on my personal projects, open to collaborations as well. Find me here:
 
 - **LinkedIn:** [in/maidellinalvarado](https://www.linkedin.com/in/maidellinalvarado)
 - **GitHub:** [@MaidellinAlvarado](https://github.com/MaidellinAlvarado)
