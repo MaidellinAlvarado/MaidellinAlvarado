@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gear&color=gradient&customColorList=10,18,28,38&height=260&section=header&text=Maidellin%20Alvarado&fontSize=48&fontColor=ffd700&fontAlignY=42&desc=Full%20Stack%20Developer%20&%20Systems%20Engineering%20Student&descSize=20&descColor=e2e8f0&descAlignY=68&animation=scaleIn" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,32,45&height=250&section=header&text=Maidellin%20Alvarado&fontSize=46&fontColor=e2e8f0&fontAlignY=38&desc=Full%20Stack%20Developer%20&%20Systems%20Engineering%20Student&descSize=18&descColor=ffd700&descAlignY=62&animation=stains" alt="Galactic Banner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/MaidellinAlvarado"><img src="https://img.shields.io/badge/GitHub-MaidellinAlvarado-blue?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/maidellinalvarado"><img src="https://img.shields.io/badge/LinkedIn-maidellinalvarado-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/MaidellinAlvarado"><img src="https://img.shields.io/badge/GitHub-MaidellinAlvarado-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/maidellinalvarado"><img src="https://img.shields.io/badge/LinkedIn-maidellinalvarado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ---
 
 ### 📬 Let's Connect
-Working on personal project as well open to project collaborations, and professional networking. Find me here:
+Working on personal projects as well open to project collaborations, and professional networking. Find me here:
 
 - **LinkedIn:** [in/maidellinalvarado](https://www.linkedin.com/in/maidellinalvarado)
 - **GitHub:** [@MaidellinAlvarado](https://github.com/MaidellinAlvarado)
