@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer & Systems Engineering Student based in Guatemala 🇬🇹</h3>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfiznN-Rl_ZD_E8JzJsR3-RfeUfr03_Ilc-zfz7Q-L47YIG56XsB702wmv&s=10" alt="Pink Nebula Banner" width="85%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(236, 72, 153, 0.2);" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfiznN-Rl_ZD_E8JzJsR3-RfeUfr03_Ilc-zfz7Q-L47YIG56XsB702wmv&s=10" alt="Pink Nebula Banner" width="45%" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(236, 72, 153, 0.2);" />
 </p>
 
 ---
@@ -12,7 +12,6 @@
 - Passionate about building scalable web applications, custom dashboards, and microservices.
 - Trilingual professional (English C1, French B1, Spanish Native).
 - Happy to make friends, playing classical piano, outdoor hiking adventures.
-
 
 ---
 
