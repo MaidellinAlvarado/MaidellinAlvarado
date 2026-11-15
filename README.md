@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?q=80&w=900&auto=format&fit=crop" alt="Galactic Pink Nebula Banner" width="85%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(236, 72, 153, 0.2);" />
-</p>
-
-<h1 align="center"><span style="color: #e2a0bb;">Hello World, I'm Maidellin Alvarado 🌻</span></h1>
+<h1 align="center"><span style="color: #e0b0ff;">Hello World, I'm Maidellin Alvarado 🌻</span></h1>
 <h3 align="center">Full Stack Developer & Systems Engineering Student based in Guatemala 🇬🇹</h3>
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfiznN-Rl_ZD_E8JzJsR3-RfeUfr03_Ilc-zfz7Q-L47YIG56XsB702wmv&s=10" alt="Pink Nebula Banner" width="85%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(236, 72, 153, 0.2);" />
+</p>
 
 ---
 
