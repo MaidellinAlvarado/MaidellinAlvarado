@@ -1,5 +1,5 @@
-<h1 align="center"><span style="color: #e0b0ff;">Hello World, I'm Maidellin Alvarado 🌻</span></h1>
-<h3 align="center">Full Stack Developer & Systems Engineering Student based in Guatemala 🇬🇹</h3>
+<h1 align="center"><span style="color: #e0b0ff;">Hello World, I'm Maidellin 🌻</span></h1>
+<h3 align="center">Full Stack Developer & Systems Engineering Student</h3>
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfiznN-Rl_ZD_E8JzJsR3-RfeUfr03_Ilc-zfz7Q-L47YIG56XsB702wmv&s=10" alt="Pink Nebula Banner" width="45%" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(236, 72, 153, 0.2);" />
